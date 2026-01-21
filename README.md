@@ -6,7 +6,7 @@
 
 ### Obiettivi 
 
-Il progetto è nato come progetto studentesco per comprendere meglio le dinamiche di funzionamento dei moderni protocolli di comunicazioni e le potenziali vulnerabilità nella trasmissione di dati.
+Il progetto è nato come progetto studentesco per comprendere meglio le dinamiche di funzionamento dei moderni protocolli di comunicazione e le potenziali vulnerabilità nella trasmissione di dati.
 
 L'idea alla base non è dunque quella di sostituire protocolli noti e già perfettamente funzionanti, ma di **proporsi come possibile alternativa** per sviluppo di progetti personali, comunicazione tra dispositivi e così via.
 
