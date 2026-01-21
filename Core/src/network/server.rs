@@ -18,7 +18,7 @@ fn handle_connection(mut stream: TcpStream) {
 }
 
 
-pub fn start_server() -> Server {
+pub fn start_and_listen() -> Server {
     let host = "localhost".to_string();
     let port = "9000".to_string();
 

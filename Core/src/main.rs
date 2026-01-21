@@ -1,7 +1,7 @@
 mod network;
 
 fn main() {
-    let server = network::server::start_server();
+    let server = network::server::start_and_listen();
 
     if server.is_open {
         println!("Connection succesfully estabilished on: {} at port: {}", server.host, server.port);
